@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a664856b-e2c5-440a-b5e6-b04381893ef0" name="Changes" comment="Changing commits">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/planetaryhub/model/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/planetaryhub/repository/EarthStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/planetaryhub/repository/MarsStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/planetaryhub/repository/PlanetContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/planetaryhub/repository/PlanetStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/glossary/model/Glossary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/glossary/model/Glossary.java" afterDir="false" />
-    </list>
+    <list default="true" id="a664856b-e2c5-440a-b5e6-b04381893ef0" name="Changes" comment="Feature: Glossary" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,18 +30,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Maven.GalacticLearning [compile].executor": "Run",
-    "Maven.GalacticLearning [package].executor": "Run",
-    "Maven.GalacticLearning [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "local",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.GalacticLearning [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.GalacticLearning [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.GalacticLearning [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;local&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,7 +75,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725985538795</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feature: Planetary Information Hub">
+      <option name="closed" value="true" />
+      <created>1725993182085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725993182085</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feature: Glossary">
+      <option name="closed" value="true" />
+      <created>1725995911059</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725995911059</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feature: Glossary">
+      <option name="closed" value="true" />
+      <created>1725999422378</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725999422378</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,7 +113,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="local" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -114,6 +129,8 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main' into Local-main&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Changing commits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changing commits" />
+    <MESSAGE value="Feature: Planetary Information Hub" />
+    <MESSAGE value="Feature: Glossary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Glossary" />
   </component>
 </project>
